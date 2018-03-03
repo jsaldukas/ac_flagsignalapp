@@ -36,7 +36,7 @@ else:
 os.environ['PATH'] = os.environ['PATH'] + ";."
 import ctypes
 
-ac.log(logPrefix + "Started")
+ac.log(logPrefix + "Started, version v0.1")
 
 appWindow = 0
 flag1Label = 0
